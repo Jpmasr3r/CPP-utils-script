@@ -173,15 +173,6 @@ Script criado para facilitar o desenvolvimento em C++ com foco em produtividade 
 
 ---
 
-## 💡 Ideias futuras
-
-* Suporte a múltiplos arquivos automaticamente com g++
-* Integração com clang
-* Sistema de testes
-* Cache de build inteligente
-
----
-
 ## ⭐ Dica
 
 Adicione ao seu PATH para usar como comando global:
